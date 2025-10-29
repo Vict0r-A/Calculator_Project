@@ -34,9 +34,8 @@ Calculator Project/
  
 ---
 
-## Example Output
+## Project Preview
 
-![Calculator Screenshot](screenshot.png)
  
 <img width="1440" height="795" alt="screenshot" src="https://github.com/user-attachments/assets/c91758d7-f8de-44db-9d16-b59f3facc307" />
 
