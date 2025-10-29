@@ -35,7 +35,8 @@ Calculator Project/
 ## Example Output
 
  
-![Calculator Preview](screenshot.png)
+![Calculator Preview](<img width="1440" height="795" alt="screenshot" src="https://github.com/user-attachments/assets/465dfdf6-bc54-4e42-b8ff-938ea0fb287b" />)
+ 
 
 
 ## Author
