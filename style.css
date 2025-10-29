@@ -1,0 +1,51 @@
+body{ /*used when wanting to style all of an element*/
+    margin: 0;/*removes marins*/
+    display: flex;/*uses flexbox*/
+    justify-content: center;  /* Centers content horizontally*/
+    align-items: center;  /* aligns content vertically*/
+    height: 100vh; /*Sets the height to 100% of the viewport height*/
+}
+
+#calculator{ /*id uses hashtag use when styling a single specifc element*/
+    font-family: Arial, sans-serif;
+    background-color: hsl(0,0%,15%);
+    max-width: 500px; /*never exceed this width*/
+    border-radius: 15px;/*round corners*/
+    overflow: hidden; /*prevents content overflowing outside*/
+}
+#display{
+    width: 100%;
+    text-align: left;
+    padding :20px;
+    border: none;
+    background-color: hsl(0,0%,20%);
+    color: white;
+}
+#keys{  
+    display: grid;
+    grid-template-columns: repeat(4,1fr);  
+    gap:10px; /*gap between rows*/
+    padding: 25px;
+} 
+
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: hsl(0,0%,30%);
+    color: white;
+    font-size: 3rem;  
+    font-weight: bolder;
+    cursor: pointer; 
+}
+#keys button:hover{
+    color: yellow;
+    background-color: rgb(196, 190, 190);
+}
+
+.operator{  
+    background-color: hsl(39,100%,50%);
+}
+.operator:hover{
+    background-color: hsl(35,100%,65%);
+}

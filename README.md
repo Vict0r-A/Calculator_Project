@@ -1,0 +1,44 @@
+# Beginner Calculator Frontend Project
+A beignner calculator system built using **HTML**, **CSS**, and **JavaScript (ES6)**.  
+It allows the performing of basic arithmetic operations, namely: addition, subtraction, multiplication, and division and supports both keyboard input and clicking for input.
+---
+
+## Skills Demonstrated
+This project was created to practice and understand:
+- Basic frontend development, proficiency in HTML, CSS and JavaScript.
+- DOM manipulation (`getElementById`, event handling).
+- Error handling.
+- Clean, readable coding.
+
+
+---
+
+## Project Structure
+Calculator Project/
+│
+├── index.html 
+├── style.css  
+├── script.js 
+└── README.md # Project documentation
+
+
+---
+
+## How to Run the Project
+
+1. Find `index.html` in the project folder.  
+2. Double-click it, or right-click → **Open With** → your preferred browser.
+
+ 
+---
+
+## Example Output
+
+ 
+![Calculator Preview](screenshot.png)
+
+
+## Author
+Victor Adams
+Email - thevictoradams@gmail.com
+LinkedIn - https://www.linkedin.com/in/victor-adams-22519431a/
