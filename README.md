@@ -18,10 +18,10 @@ This project was created to practice and understand:
 ## Project Structure
 Calculator Project/
 │
-├── index.html 
-├── style.css  
-├── script.js 
-└── README.md # Project documentation
+├── index.html        
+├── style.css       
+├── script.js         
+└── README.md         
 
 
 ---
