@@ -42,5 +42,7 @@ Calculator Project/
 
 ## Author
 Victor Adams
-Email - thevictoradams@gmail.com
-LinkedIn - https://www.linkedin.com/in/victor-adams-22519431a/
+
+
+- Email - thevictoradams@gmail.com
+- LinkedIn - https://www.linkedin.com/in/victor-adams-22519431a/
