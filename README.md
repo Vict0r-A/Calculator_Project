@@ -1,4 +1,6 @@
 # Beginner Calculator Frontend Project
+
+
 A beignner calculator system built using **HTML**, **CSS**, and **JavaScript (ES6)**.  
 It allows the performing of basic arithmetic operations, namely: addition, subtraction, multiplication, and division and supports both keyboard input and clicking for input.
 ---
@@ -34,9 +36,9 @@ Calculator Project/
 
 ## Example Output
 
+![Calculator Screenshot](screenshot.png)
  
-![Calculator Preview](<img width="1440" height="795" alt="screenshot" src="https://github.com/user-attachments/assets/465dfdf6-bc54-4e42-b8ff-938ea0fb287b" />)
- 
+<img width="1440" height="795" alt="screenshot" src="https://github.com/user-attachments/assets/c91758d7-f8de-44db-9d16-b59f3facc307" />
 
 
 ## Author
